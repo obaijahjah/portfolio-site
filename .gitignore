@@ -1,0 +1,11 @@
+# Build outputs
+node_modules/
+dist/
+dist-ssr/
+*.local
+.DS_Store
+.vite/
+*.log
+*.tsbuildinfo
+vite.config.d.ts
+vite.config.js
